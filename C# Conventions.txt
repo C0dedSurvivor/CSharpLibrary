@@ -1,0 +1,9 @@
+1: Class, function, interface, enum, and delegate names should be in UpperCamelCase, aka PascalCase. This means appending the words together and capitalizing the first letter of each.
+2: Instance names should be in camelCase, which is upper camel case but with a lowercase first letter.
+3: Interface names should begin with a capital i.
+4: Each class and interface should be in its own file with the same name as said class or interface.
+5: Nesting of code should be deliniated by another tab at the beginning of the line. Ex: the code in a for loop should be indented by one more tab than the for loop itself.
+6: Every function should have a comment above it saying what it does, what parameters it takes, and what it outputs.
+7: Functions and variables should have descriptive names unless they are incrementers for a loop. I.E. it should be possible to get the variable's purpose from its name.
+8: All variables and functions should be marked as public, protected, or private. Assumptions lead to mistakes.
+9: Constants should be in ALL_CAPS_SEPARATED_BY_UNDERSCORES.
